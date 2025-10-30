@@ -25,7 +25,7 @@ To view and interact with the application, you only need a modern web browser.
 Clone the Repository:
 
 git clone [https://github.com/Awais11332/School-Management-System-Web.git](https://github.com/Awais11332/School-Management-System-Web.git)
-cd YOUR-REPO-NAME
+
 
 
 Open the File:
